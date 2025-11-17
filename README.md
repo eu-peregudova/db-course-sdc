@@ -9,6 +9,5 @@ various theaters. The system should also include information about genres, seati
 ticket prices
 
 ### Logical Data Modelling:
-<img width="2834" height="1595" alt="image" src="https://github.com/user-attachments/assets/80c4eb7b-d862-47ea-8605-d9963886e15b" />
-<img width="2834" height="1593" alt="image" src="https://github.com/user-attachments/assets/25c48ecf-3faf-4513-9645-6f63325cc204" />
-
+<img width="2819" height="1581" alt="image" src="https://github.com/user-attachments/assets/1d9b553f-c2d6-4dfc-bf85-2addeafabac9" />
+<img width="2819" height="1587" alt="image" src="https://github.com/user-attachments/assets/32a7ce9d-1938-418d-818a-67231055e02c" />
